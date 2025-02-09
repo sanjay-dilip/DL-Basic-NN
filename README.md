@@ -2,7 +2,7 @@ Some basic neural network functionality that I made for classes that I undertook
 
 The file 'CNN Code' is a CNN that utilises MNIST digits classification dataset, and shows the accuracy and loss in the model.
 
-The file 'CNN Cose 2' is a CNN that utilises Fashion MNIST dataset and performs the same functions.
+The file 'CNN Code 2' is a CNN that utilises Fashion MNIST dataset and performs the same functions.
 
 The file 'RNN' is an RNN that utilises MNIST dataset to create Bidirectional RNN, with an LSTM layer.
 
